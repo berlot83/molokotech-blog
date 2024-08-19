@@ -4,8 +4,10 @@ title: Data Types
 authors: [axel]
 tags: [molokotech, java]
 ---
+![banner](./../../static/img/banner-java.jpg)
 
 [sandbox.molokotech.com](https://docusaurus.io/docs/blog) are powered by the [Molokotech](http://web.molokotech.com/?lang=en).
+
 
 Java has an strong dependency with data types, it is important to understand how they works and how to use it.
 

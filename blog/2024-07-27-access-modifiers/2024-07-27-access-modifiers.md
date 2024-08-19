@@ -4,6 +4,8 @@ title: Access modifiers
 authors: [axel]
 tags: [Molokotech, docusaurus]
 ---
+![banner](./../../static/img/banner-java.jpg)
+
 Access modifiers are implemented in java with four levels of abtraction.
 
 **Improves**:
