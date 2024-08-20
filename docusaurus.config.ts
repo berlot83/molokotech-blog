@@ -8,18 +8,20 @@ const config: Config = {
   favicon: 'img/moloko-logo-min.png',
 
   // Set the production url of your site here
-  url: 'https://blog.molokotech.com',
+  url: 'https://berlot83.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
-
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
+
+  projectName: 'molokotech-blog',
+  organizationName: 'Berlot83',
+  trailingSlash: false,
+
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
@@ -76,7 +78,7 @@ const config: Config = {
           position: 'left'
         },
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/berlot83',
           label: 'GitHub',
           position: 'right',
         },
@@ -103,7 +105,7 @@ const config: Config = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/berlot83',
             },
           ],
         },
