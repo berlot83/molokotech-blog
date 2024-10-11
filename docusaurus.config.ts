@@ -18,7 +18,7 @@ const config: Config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
-  projectName: 'molokotech-blog',
+  projectName: 'berlot83',
   organizationName: 'berlot83',
   trailingSlash: false,
 
