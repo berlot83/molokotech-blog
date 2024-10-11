@@ -74,7 +74,7 @@ interface Startable {
 * Las insterfaces pueden definir múltiples métodos default.
 * Pueden definir múltiples métodos privados.
 * El uso de métodos privados tiene sentido cuando internamente en la misma interface se invocan métodos.
-* Como cualquier acceso estático se puede prescindir del nombre de la clase, a menos que exista una variable definida en el mismo método y la selección sea redundante 
+* Como cualquier acceso estático se puede prescindir del nombre de la clase, a menos que exista una variable definida en el mismo método con lo cual el compilador prioriza la variable local y deja de apuntar a la estática. 
 
 #### Ejemplo práctico de cada uso
 
@@ -126,3 +126,7 @@ public interface Streamable {
 
 }
 ~~~
+
+:::tip
+Desde Java 8 en adelante se habilitó el uso de expresiones lambda ampliamente utilizadas en programación funcional, la que mejora notablemente la lectura del código y limita la cantidad de líneas de código haciendo una lectura de los códigos fuente más legible.
+:::
