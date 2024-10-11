@@ -2,7 +2,7 @@
 slug: anonymous-clases
 title: Anonymous Classes
 authors: [axel]
-tags: [docusaurus]
+tags: [java, spring-boot]
 ---
 
 
