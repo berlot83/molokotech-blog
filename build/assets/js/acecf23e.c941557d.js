@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmolokotech_ui=self.webpackChunkmolokotech_ui||[]).push([[1903],{1912:o=>{o.exports=JSON.parse('{"blogBasePath":"/molokotech-blog/blog","blogTitle":"Blog"}')}}]);
