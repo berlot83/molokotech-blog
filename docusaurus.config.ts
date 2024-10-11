@@ -11,14 +11,14 @@ const config: Config = {
   url: 'https://berlot83.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/molokotech-blog',
+  baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
-  projectName: 'berlot83',
+  projectName: 'molokotech-blog',
   organizationName: 'berlot83',
   trailingSlash: false,
   deploymentBranch: "deployment",
