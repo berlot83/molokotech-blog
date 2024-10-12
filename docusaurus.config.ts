@@ -71,7 +71,12 @@ const config: Config = {
         }, */
         {
           to: '/blog',
-          label: 'Blog',
+          label: 'Java-Basics-Blog',
+          position: 'left'
+        },
+        {
+          to: '/opinions-blog',
+          label: 'Opinions-Blog',
           position: 'left'
         },
         {
@@ -115,6 +120,19 @@ const config: Config = {
       additionalLanguages: ['java']
     },
   } satisfies Preset.ThemeConfig,
+  plugins: [
+    [
+      '@docusaurus/plugin-content-blog',
+      {
+        id: 'opinions-blog',
+        routeBasePath: 'opinions-blog',
+        path: './opinions-blog',
+      },
+    ],
+  ],
+
+
+
 };
 
 export default config;
