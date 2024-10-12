@@ -80,6 +80,11 @@ const config: Config = {
           position: 'left'
         },
         {
+          to: '/reflections-blog',
+          label: 'Reflections-Blog',
+          position: 'left'
+        },
+        {
           href: 'https://github.com/berlot83',
           label: 'GitHub',
           position: 'right',
@@ -126,8 +131,16 @@ const config: Config = {
       {
         id: 'opinions-blog',
         routeBasePath: 'opinions-blog',
-        path: './opinions-blog',
-      },
+        path: './opinions-blog'
+      }
+    ],
+    [
+      '@docusaurus/plugin-content-blog',
+      {
+        id: 'reflections-blog',
+        routeBasePath: 'reflections-blog',
+        path: './reflections-blog'
+      }
     ],
   ],
 
