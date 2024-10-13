@@ -72,7 +72,7 @@ const config: Config = {
           label: 'Tutorial',
         }, */
         {
-          to: '/blog',
+          to: '/java-blog',
           label: 'Java',
           position: 'left'
         },

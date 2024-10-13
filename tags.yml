@@ -2,7 +2,7 @@
 java:
   label: Java
   description: Programming language based in POO
-Molokotech:
+molokotech:
   label: Molokotech
   permalink: /facebook
   description: Software design
