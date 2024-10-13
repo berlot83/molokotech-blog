@@ -72,7 +72,7 @@ const config: Config = {
           label: 'Tutorial',
         }, */
         {
-          to: '/blog',
+          to: '/java-blog',
           label: 'Java',
           position: 'left'
         },
@@ -128,6 +128,16 @@ const config: Config = {
     },
   } satisfies Preset.ThemeConfig,
   plugins: [
+    [
+      '@docusaurus/plugin-content-blog',
+      {
+        id: 'java-blog',
+        authorsMapPath: '../authors.yml',
+        tagsBasePath: '../tags.yml',
+        routeBasePath: 'java-blog',
+        path: './java-blog'
+      }
+    ],
     [
       '@docusaurus/plugin-content-blog',
       {
