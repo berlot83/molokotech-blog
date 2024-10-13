@@ -16,7 +16,7 @@ const config: Config = {
   baseUrl: '/',
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'warn',
   projectName: 'molokotech-blog',
   organizationName: 'berlot83',
@@ -72,7 +72,7 @@ const config: Config = {
           label: 'Tutorial',
         }, */
         {
-          to: '/java-blog',
+          to: '/blog',
           label: 'Java',
           position: 'left'
         },

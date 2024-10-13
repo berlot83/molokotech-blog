@@ -1,0 +1,15 @@
+
+java:
+  label: Java
+  description: Programming language based in POO
+Molokotech:
+  label: Molokotech
+  permalink: /facebook
+  description: Software design
+docusaurus:
+  label: Docusaurus
+  permalink: /docusaurus
+  description: Docusaurus tag description
+spring-boot:
+  label: spring-boot
+  description: Most popular DI framework on Java
