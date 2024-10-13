@@ -73,17 +73,17 @@ const config: Config = {
         }, */
         {
           to: '/blog',
-          label: 'Java-Basics-Blog',
+          label: 'Java',
           position: 'left'
         },
         {
           to: '/opinions-blog',
-          label: 'Opinions-Blog',
+          label: 'Opinions',
           position: 'left'
         },
         {
           to: '/reflections-blog',
-          label: 'Reflections-Blog',
+          label: 'Reflections',
           position: 'left'
         },
         {
