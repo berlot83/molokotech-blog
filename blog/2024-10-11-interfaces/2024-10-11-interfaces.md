@@ -2,7 +2,7 @@
 slug: Interfaces
 title: Interfaces
 authors: axel
-tags: [hello, docusaurus]
+tags: [molokotech]
 ---
 
 ![banner](./../../static/img/banner-java.jpg)

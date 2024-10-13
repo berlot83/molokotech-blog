@@ -2,7 +2,7 @@
 slug: disclaimer
 title: Intro
 authors: [axel]
-tags: [Molokotech]
+tags: [molokotech]
 ---
 ![banner](./../../static/img/banner-java.jpg)
 

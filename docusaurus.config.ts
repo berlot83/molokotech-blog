@@ -132,6 +132,8 @@ const config: Config = {
       '@docusaurus/plugin-content-blog',
       {
         id: 'opinions-blog',
+        authorsMapPath: '../authors.yml',
+        tagsBasePath: '../tags.yml',
         routeBasePath: 'opinions-blog',
         path: './opinions-blog'
       }
@@ -140,6 +142,8 @@ const config: Config = {
       '@docusaurus/plugin-content-blog',
       {
         id: 'reflections-blog',
+        authorsMapPath: '../authors.yml',
+        tagsBasePath: '../tags.yml',
         routeBasePath: 'reflections-blog',
         path: './reflections-blog'
       }

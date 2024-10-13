@@ -2,7 +2,7 @@
 slug: access-modifiers
 title: Access modifiers
 authors: [axel]
-tags: [Molokotech]
+tags: [molokotech]
 ---
 ![banner](./../../static/img/banner-java.jpg)
 

@@ -2,7 +2,7 @@
 slug: autoboxing-unboxing
 title: Autoboxing and Unboxing
 authors: [axel]
-tags: [Molokotech]
+tags: [molokotech]
 ---
 ![banner](./../../static/img/banner-java.jpg)
 
