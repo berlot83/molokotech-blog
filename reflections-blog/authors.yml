@@ -1,7 +1,12 @@
 axel:
   name: Axel Berlot
   title: Java developer @ Opendev Pro
-  url: http://web.molokotech.com/?lang=en
+  # url: http://web.molokotech.com/?lang=en
   image_url: https://avatars.githubusercontent.com/u/22393878?s=96&v=4
+  email: berlot83@yahoo.com.ar
+  page: true
+  socials:
+    github: berlot83
+    x: singleton
   
 
