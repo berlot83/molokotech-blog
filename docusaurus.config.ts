@@ -110,7 +110,7 @@ const config: Config = {
           items: [
             {
               label: 'Blog',
-              to: '/blog',
+              to: '/java-blog',
             },
             {
               label: 'GitHub',
