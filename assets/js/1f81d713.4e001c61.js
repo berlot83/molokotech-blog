@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmolokotech_ui=self.webpackChunkmolokotech_ui||[]).push([[8640],{6799:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Intro","permalink":"/reflections-blog/disclaimer","unlisted":false,"date":"2024-10-12T00:00:00.000Z"}]}')}}]);
