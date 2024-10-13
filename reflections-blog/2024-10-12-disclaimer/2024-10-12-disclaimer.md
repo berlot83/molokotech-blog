@@ -12,3 +12,5 @@ tags: [molokotech]
 <div style={{"text-align": "justify"}}>Podría estar escribiendo esto en X.com o linkedin.com, Medium.com, etc, sin embargo elijo hacerlo en un blog absolutamente propio donde pueda diseñar los estilos, decir lo que quiero y no tener limitaciones de ningún tipo.</div>
 
 #### Bienvenidos a mi sillón.
+
+<!-- truncate -->

@@ -134,3 +134,5 @@ Viewing the results in the IDE
 If we comment the compilation problems and run the program we see that prints a negative number even if we assign a positive number, this is because it reach out the max size of data-type and force it to assign with the cast, so it tries to fit anyway passing the limits.
 
 ![max](data-types-max.png)
+
+<!-- truncate -->

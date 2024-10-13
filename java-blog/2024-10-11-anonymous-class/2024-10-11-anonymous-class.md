@@ -88,3 +88,6 @@ Hoy en día se utilizan menos las clases anónimas ya que aprarecieron las expre
 1) De donde se crean es una interface.
 2) Si sólo tiene un método abstracto que no sea los que vienen de la clase Object.
 :::
+
+
+<!-- truncate -->

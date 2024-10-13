@@ -130,3 +130,5 @@ public interface Streamable {
 :::tip
 Desde Java 8 en adelante se habilitó el uso de expresiones lambda ampliamente utilizadas en programación funcional, la que mejora notablemente la lectura del código y limita la cantidad de líneas de código haciendo una lectura de los códigos fuente más legible.
 :::
+
+<!-- truncate -->

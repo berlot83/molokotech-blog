@@ -109,3 +109,5 @@ class Private {
 ```
 
 It is important to note that some modifiers affects the overriding behavor.
+
+<!-- truncate -->
