@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmolokotech_ui=self.webpackChunkmolokotech_ui||[]).push([[193],{2132:o=>{o.exports=JSON.parse('{"metadata":{"permalink":"/opinions-blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

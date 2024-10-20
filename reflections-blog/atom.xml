@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://berlot83.github.io/reflections-blog</id>
+    <title>Moloko-Blog Blog</title>
+    <updated>2024-10-12T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://berlot83.github.io/reflections-blog"/>
+    <subtitle>Moloko-Blog Blog</subtitle>
+    <icon>https://berlot83.github.io/img/moloko-logo-min.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Intro]]></title>
+        <id>https://berlot83.github.io/reflections-blog/disclaimer</id>
+        <link href="https://berlot83.github.io/reflections-blog/disclaimer"/>
+        <updated>2024-10-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[banner]]></summary>
+        <content type="html"><![CDATA[<p><img decoding="async" loading="lazy" alt="banner" src="https://berlot83.github.io/assets/images/banner-java-d9daf6988b346c0809bf29ea77bca5ae.jpg" width="1400" height="350" class="img_ev3q"></p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="sección-de-reflexiónes">Sección de reflexiónes<a href="https://berlot83.github.io/reflections-blog/disclaimer#secci%C3%B3n-de-reflexi%C3%B3nes" class="hash-link" aria-label="Direct link to Sección de reflexiónes" title="Direct link to Sección de reflexiónes">​</a></h3>
+<div style="text-align:justify">Como les comenté en mi presentación, soy un programador que se enamoró de <strong>Java</strong> por donde lo veas, es sin duda <strong>mi lenguaje predilecto</strong>, sin embargo en esta sección la voy a dejar a reflexiones de la vida laboral, compartir situaciones que otros colegas pueden haber vivido, están viviendo o vivirán, ya que dentro de mis recién cumplidos 10 diez años en el mundo de sistemas fue como una rollercoster de sistuaciones vividas relacionadas al trabajo ya que tuve la suerte o maldición de mutar en mis puestos de trabajo a diferentes roles con diferentes responsabilidades, he sido felicitado, criticado y hasta como a la mayoría de los individuos en sus inicios laborales desvinculado, dicho esto creo que la experiencia me habilita a realizar determinados descargos o reflexiones sobre temas relacionados al mundo donde vivimos.</div>
+<div style="text-align:justify">Podría estar escribiendo esto en X.com o linkedin.com, Medium.com, etc, sin embargo elijo hacerlo en un blog absolutamente propio donde pueda diseñar los estilos, decir lo que quiero y no tener limitaciones de ningún tipo.</div>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="bienvenidos-a-mi-sillón">Bienvenidos a mi sillón.<a href="https://berlot83.github.io/reflections-blog/disclaimer#bienvenidos-a-mi-sill%C3%B3n" class="hash-link" aria-label="Direct link to Bienvenidos a mi sillón." title="Direct link to Bienvenidos a mi sillón.">​</a></h4>]]></content>
+        <author>
+            <name>Axel Berlot</name>
+            <email>berlot83@yahoo.com.ar</email>
+            <uri>http://web.molokotech.com/?lang=en</uri>
+        </author>
+        <category label="molokotech" term="molokotech"/>
+    </entry>
+</feed>

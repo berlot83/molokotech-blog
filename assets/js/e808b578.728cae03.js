@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmolokotech_ui=self.webpackChunkmolokotech_ui||[]).push([[7794],{8534:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-content-blog","id":"java-blog"}')}}]);

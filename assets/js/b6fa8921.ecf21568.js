@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmolokotech_ui=self.webpackChunkmolokotech_ui||[]).push([[7390],{3929:o=>{o.exports=JSON.parse('{"tags":[{"label":"molokotech","permalink":"/opinions-blog/../tags.yml/molokotech","count":2}]}')}}]);

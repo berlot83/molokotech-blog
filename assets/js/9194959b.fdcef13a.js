@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmolokotech_ui=self.webpackChunkmolokotech_ui||[]).push([[2725],{1740:o=>{o.exports=JSON.parse('{"blogBasePath":"/java-blog","blogTitle":"Blog","authorsListPath":"/java-blog/authors"}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmolokotech_ui=self.webpackChunkmolokotech_ui||[]).push([[9016],{385:o=>{o.exports=JSON.parse('{"name":"docusaurus-plugin-content-blog","id":"opinions-blog"}')}}]);
